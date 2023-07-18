@@ -7,7 +7,7 @@
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet">
     <style>
         body {
-            background-image: url(coffee_homepage.jpg);
+            background-image: url(../views/coffee_homepage.jpg);
             background-size: cover;
             background-position: fixed;
         }
@@ -133,3 +133,4 @@
    
 </body>
 </html>
+
