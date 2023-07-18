@@ -1,4 +1,3 @@
-
 <?php
 class CoffeeModel {
     private $servername = "localhost";
@@ -49,4 +48,4 @@ class CoffeeModel {
         $this->conn->close();
     }
 }
-?>
+?>   
